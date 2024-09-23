@@ -1,4 +1,4 @@
-# The National Structure Inventory (NSI) API in Python
+# A Guide to the National Structure Inventory (NSI) API in Python
 Author: Mark Bauer
 
 # 1. Introduction
