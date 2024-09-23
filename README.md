@@ -24,9 +24,15 @@ NSI API:
 - NSI on GitHub: https://github.com/HydrologicEngineeringCenter/NSI
 
 Community Resources:  
+- National Structure Inventory Webinar PowerPoint (2023): https://planning.erdc.dren.mil/toolbox/webinars/23Jan26-NSI.pdf 
 - National Structure Inventory: Cataloging the Built Environment for Natural Hazard Risk Assessments - AGU Fall Meeting 2022: https://ui.adsabs.harvard.edu/abs/2022AGUFM.U53A..02R/abstract
 - Updates to the National Structure Inventory - HEC Newsletter (2022): https://www.hec.usace.army.mil/confluence/hecnews/spring-2022/updates-to-the-national-structure-inventory
 - Google Earth Engine (GEE) Community Resources: https://gee-community-catalog.org/projects/nsi/
+
+Academic Papers:  
+-
+-
+-
 
 # 4. Say Hello!
 Feel free to reach out for further discussions.
