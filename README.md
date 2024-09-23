@@ -30,9 +30,9 @@ Community Resources:
 - Google Earth Engine (GEE) Community Resources: https://gee-community-catalog.org/projects/nsi/
 
 Academic Papers:  
--
--
--
+- TBD
+- TBD
+- TBD
 
 # 4. Say Hello!
 Feel free to reach out for further discussions.
