@@ -26,7 +26,6 @@ NSI API:
 Community Resources:  
 - National Structure Inventory: Cataloging the Built Environment for Natural Hazard Risk Assessments - AGU Fall Meeting 2022: https://ui.adsabs.harvard.edu/abs/2022AGUFM.U53A..02R/abstract
 - Updates to the National Structure Inventory - HEC Newsletter (2022): https://www.hec.usace.army.mil/confluence/hecnews/spring-2022/updates-to-the-national-structure-inventory
-- National Structure Inventory 2022 USACE - ArcGIS Online: https://www.arcgis.com/home/item.html?id=ae3dcb0fe38e4d3287ab9233a9d35c3e
 - Google Earth Engine (GEE) Community Resources: https://gee-community-catalog.org/projects/nsi/
 
 # 4. Say Hello!
