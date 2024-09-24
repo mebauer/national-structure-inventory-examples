@@ -17,16 +17,19 @@ Source: https://ui.adsabs.harvard.edu/abs/2022AGUFM.U53A..02R/abstract
 - Explore how to fetch NSI data via the API: [api-examples.ipynb](https://github.com/mebauer/national-structure-inventory-examples/blob/main/api-examples.ipynb).
 
 # 3. Additional Resources
-NSI API:  
-- National Structure Inventory: https://www.hec.usace.army.mil/confluence/nsi/
+NSI:  
+- National Structure Inventory Website: https://www.hec.usace.army.mil/confluence/nsi/
 - API Reference Guide: https://www.hec.usace.army.mil/confluence/nsi/technicalreferences/latest/api-reference-guide
 - Technical Documentation: https://www.hec.usace.army.mil/confluence/nsi/technicalreferences/latest/technical-documentation
 - NSI on GitHub: https://github.com/HydrologicEngineeringCenter/NSI
+- NSI Download Tool: https://www.hec.usace.army.mil/confluence/nsi/userguides/download-tool
 
 Community Resources:  
-- National Structure Inventory Webinar PowerPoint (2023): https://planning.erdc.dren.mil/toolbox/webinars/23Jan26-NSI.pdf 
-- National Structure Inventory: Cataloging the Built Environment for Natural Hazard Risk Assessments - AGU Fall Meeting 2022: https://ui.adsabs.harvard.edu/abs/2022AGUFM.U53A..02R/abstract
+- National Structure Inventory Webinar PowerPoint (2023): https://planning.erdc.dren.mil/toolbox/resources.cfm?Id=0&WId=712&Option=Planning%20Webinars
+    - Webinar: https://planning.erdc.dren.mil/toolbox/webinars/23Jan26-NSI.pdf
+    - Q&A: https://planning.erdc.dren.mil/toolbox/webinars/23Jan26-NSI_QA.pdf
 - Updates to the National Structure Inventory - HEC Newsletter (2022): https://www.hec.usace.army.mil/confluence/hecnews/spring-2022/updates-to-the-national-structure-inventory
+- National Structure Inventory: Cataloging the Built Environment for Natural Hazard Risk Assessments - AGU Fall Meeting 2022: https://ui.adsabs.harvard.edu/abs/2022AGUFM.U53A..02R/abstract
 - Google Earth Engine (GEE) Community Resources: https://gee-community-catalog.org/projects/nsi/
 
 Academic Papers:  
