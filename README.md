@@ -14,7 +14,8 @@ The NSI was originally developed by the United States Army Corps of Engineers to
 Source: https://ui.adsabs.harvard.edu/abs/2022AGUFM.U53A..02R/abstract
 
 # 2. Notebook
-- Explore how to fetch NSI data via the API: [api-examples.ipynb](https://github.com/mebauer/national-structure-inventory-examples/blob/main/api-examples.ipynb).
+- Explore how to fetch NSI data via the API: [api-examples.ipynb](https://github.com/mebauer/national-structure-inventory-examples/blob/main/api-examples.ipynb)
+- Sample analysis: [analysis-examples.ipynb](https://github.com/mebauer/national-structure-inventory-examples/blob/main/analysis-examples.ipynb).
 
 # 3. Additional Resources
 NSI:  
