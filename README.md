@@ -36,9 +36,8 @@ Community Resources:
 - Google Earth Engine (GEE) Community Resources: https://gee-community-catalog.org/projects/nsi/
 
 Academic Papers:  
-- TBD
-- TBD
-- TBD
+- Wing, O.E.J., Lehman, W., Bates, P.D. et al. Inequitable patterns of US flood risk in the Anthropocene. *Nat. Clim. Chang.* **12**, 156–162 (2022). https://doi.org/10.1038/s41558-021-01265-6
+- D. Sanderson, D. Cox. Comparison of national and local building inventories for damage and loss modeling of seismic and tsunami hazards: from parcel-to city-scale. *Int J Disast Risk Reduct*, **93** (2023). https://doi.org/10.1016/j.ijdrr.2023.103755
 
 # 4. Say Hello!
 Feel free to reach out for further discussions.
