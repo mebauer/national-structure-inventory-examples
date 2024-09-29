@@ -3,6 +3,8 @@ Author: Mark Bauer
 
 ![cover-photo](figures/foundation-height-manhattan.png)
 
+![cover-photo](figures/found-type-summary.png)
+
 ![cover-photo](figures/struct-val-build-type-found-type.png)
 
 # 1. Introduction
