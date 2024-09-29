@@ -37,6 +37,8 @@ Community Resources:
 
 Academic Papers:  
 - Wing, O.E.J., Lehman, W., Bates, P.D. et al. Inequitable patterns of US flood risk in the Anthropocene. *Nat. Clim. Chang.* **12**, 156–162 (2022). https://doi.org/10.1038/s41558-021-01265-6
+- Herrnstadt, E. & Jageler, J. Flood damage avoided by potential spending on property-level adaptations: Working paper 2024-03. Working Papers, **58168**, Congressional Budget Office, 2024. Available at: https://www.cbo.gov/system/files/2024-05/58168-Flood-Adaptation.pdf
+- Sanders, B. F., Brady, D., Schubert, J. E., Martin, E.-M. H., Davis, S. J., & Mach, K. J. Quantifying social inequalities in flood risk. *ASCE OPEN: Multidisciplinary Journal of Civil Engineering* **2**(1), (2024). https://doi.org/10.1061/AOMJAH.AOENG-0017
 - D. Sanderson, D. Cox. Comparison of national and local building inventories for damage and loss modeling of seismic and tsunami hazards: from parcel-to city-scale. *Int J Disast Risk Reduct*, **93** (2023). https://doi.org/10.1016/j.ijdrr.2023.103755
 
 # 4. Say Hello!
