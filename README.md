@@ -4,8 +4,10 @@ Author: Mark Bauer
 ![cover-photo](figures/foundation-height-manhattan.png)
 
 ![cover-photo](figures/found-type-summary.png)
+The figure on the right shows error bars representing the 95% confidence interval.
 
 ![cover-photo](figures/struct-val-build-type-found-type.png)
+Both figures display error bars representing the 95% confidence interval. Damage categories are broader aggregations than occupancy types, defined as follows: RES for Residential, COM for Commercial, IND for Industrial, and PUB for Public.
 
 # 1. Introduction
 This project is intended to demonstrate how to use the National Structure Inventory (NSI) API in Python. To learn more about the NSI API, please visit the [API Reference Guide](https://www.hec.usace.army.mil/confluence/nsi/technicalreferences/latest/api-reference-guide) and the [NSI Documentation](https://www.hec.usace.army.mil/confluence/nsi).
